@@ -3,6 +3,7 @@ title: My Dragon Post
 date: 2023-05-15 17:41:00 -11:00
 categories:
 - dragons
+layout: default
 ---
 
 Hello world.  
