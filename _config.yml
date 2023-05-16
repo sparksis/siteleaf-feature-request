@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  ui-created-collection:
+    title: ui-created-collection
+    output: true
 defaults:
 - scope:
     path: ''
